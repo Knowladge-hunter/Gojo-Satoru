@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918292121115']
+global.owner = ['919267936126']
 global.premium = ['918292121115']
-global.ownernomer = '🙄sahid'
-global.ownername = '🙄sahid'
+global.ownernomer = '🙄PEACEMAKER'
+global.ownername = '🙄PEACEMAKER'
 global.botname = '👽Alien-Ware'
 global.footer = '👽Alien-ware@Inc.'
 global.ig = 'https://github.com/nexusNw'
@@ -30,7 +30,7 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Gojo-Satoru'
-global.author = '🙄sahid'
+global.author = '🙄PEACEMAKER'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
